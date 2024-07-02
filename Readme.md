@@ -1,4 +1,4 @@
-<h1 align="center">Hotel Booking Web App</h1>
+<h1 align="center">Hotel Booking System</h1>
   <p align="center">
     A hotel room booking web app with MERN Stack.    
   </p>
